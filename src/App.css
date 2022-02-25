@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.hide-age{
+  display: none;
+}
+
+.hide-email{
+  display: none;
+}
+
+.hide-phone{
+  display: none;
+}
